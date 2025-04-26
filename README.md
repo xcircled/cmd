@@ -1,2 +1,6 @@
-# cmd
-I made this adware that is somehow not detectable to any any antiviruses EVER (BEWARE)
+set system
+call Xfile.bat
+if Xfile.bat
+set a
+tree desktop Xfile.bat
+
